@@ -1,0 +1,3 @@
+MINOVEK SPRINTHOST UPLOAD CHECK
+This file is part of the GitHub-hosted site release.
+If served from your Sprinthost technical domain, deployment files have reached the hosting server.
